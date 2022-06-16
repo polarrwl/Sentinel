@@ -135,6 +135,13 @@
         	<version>1.16.1</version>
         	<scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.alibaba.nacos</groupId>
+            <artifactId>nacos-client</artifactId>
+            <version>1.4.2</version>
+        </dependency>
+
     </dependencies>
 
     <build>
